@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\22105\\source\\repos\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|C:\\Users\\22105\\source\\repos\\Chess\\Chess\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|solutionrelative:Chess\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|solutionrelative:Chess\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Man.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|solutionrelative:Chess\\Man.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|C:\\Users\\22105\\source\\repos\\Chess\\Chess\\AI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|solutionrelative:Chess\\AI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|C:\\Users\\22105\\source\\repos\\Chess\\Chess\\ChessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|solutionrelative:Chess\\ChessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Chess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|solutionrelative:Chess\\Chess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|C:\\Users\\22105\\source\\repos\\Chess\\Chess\\ChessGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|solutionrelative:Chess\\ChessGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|C:\\Users\\22105\\source\\repos\\Chess\\Chess\\AI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|solutionrelative:Chess\\AI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Man.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE4B3D7F-A8EC-49BA-9A75-BD262B626B08}|Chess\\Chess.vcxproj|solutionrelative:Chess\\Man.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AI.h",
+              "DocumentMoniker": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\AI.h",
+              "RelativeDocumentMoniker": "Chess\\AI.h",
+              "ToolTip": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\AI.h",
+              "RelativeToolTip": "Chess\\AI.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-16T11:44:47.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\main.cpp",
+              "RelativeDocumentMoniker": "Chess\\main.cpp",
+              "ToolTip": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\main.cpp",
+              "RelativeToolTip": "Chess\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T11:44:48.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Man.cpp",
+              "DocumentMoniker": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Man.cpp",
+              "RelativeDocumentMoniker": "Chess\\Man.cpp",
+              "ToolTip": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Man.cpp",
+              "RelativeToolTip": "Chess\\Man.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T11:44:48.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chess.h",
+              "DocumentMoniker": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Chess.h",
+              "RelativeDocumentMoniker": "Chess\\Chess.h",
+              "ToolTip": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Chess.h",
+              "RelativeToolTip": "Chess\\Chess.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-16T11:44:48.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chess.cpp",
+              "DocumentMoniker": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Chess.cpp",
+              "RelativeDocumentMoniker": "Chess\\Chess.cpp",
+              "ToolTip": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Chess.cpp",
+              "RelativeToolTip": "Chess\\Chess.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T11:44:48.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChessGame.cpp",
+              "DocumentMoniker": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\ChessGame.cpp",
+              "RelativeDocumentMoniker": "Chess\\ChessGame.cpp",
+              "ToolTip": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\ChessGame.cpp",
+              "RelativeToolTip": "Chess\\ChessGame.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T11:44:48.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Man.h",
+              "DocumentMoniker": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Man.h",
+              "RelativeDocumentMoniker": "Chess\\Man.h",
+              "ToolTip": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\Man.h",
+              "RelativeToolTip": "Chess\\Man.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-16T11:44:48.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AI.cpp",
+              "DocumentMoniker": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\AI.cpp",
+              "RelativeDocumentMoniker": "Chess\\AI.cpp",
+              "ToolTip": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\AI.cpp",
+              "RelativeToolTip": "Chess\\AI.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T11:44:48.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChessGame.h",
+              "DocumentMoniker": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\ChessGame.h",
+              "RelativeDocumentMoniker": "Chess\\ChessGame.h",
+              "ToolTip": "C:\\Users\\22105\\source\\repos\\Chess\\Chess\\ChessGame.h",
+              "RelativeToolTip": "Chess\\ChessGame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-16T11:44:48.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

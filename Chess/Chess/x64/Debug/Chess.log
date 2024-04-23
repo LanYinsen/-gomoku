@@ -1,0 +1,23 @@
+﻿  Chess.cpp
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(73,52): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(73,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(74,52): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(74,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(88,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(89,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(90,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(91,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(93,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(102,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(113,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(115,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(127,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(128,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(139,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(140,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(141,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(162,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\22105\source\repos\Chess\Chess\Chess.cpp(163,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Man.cpp
+  正在生成代码...
+  Chess.vcxproj -> C:\Users\22105\source\repos\Chess\x64\Debug\Chess.exe
